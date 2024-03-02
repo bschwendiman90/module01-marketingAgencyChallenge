@@ -1,0 +1,12 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#header {
+    position: fixed;
+    width: 100%;
+    background-color: white;
+    border-bottom: 0px 0px 5px 0px solid black;
+    margin: 0;
+    padding: 0;
+}
